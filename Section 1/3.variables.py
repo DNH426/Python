@@ -9,26 +9,26 @@
 
 # ========================
 
-# Eaxmples
+# # Eaxmples
 
-# 1
+# # 1
 
-# data type = int 
+# # data type = int 
 # my_dogs = 2
 
-# data type = list
+# # data type = list
 # my_dogs = ["Cubs", "Sox"]
 
-# 2
+# # 2
 
-# What will be logged?
+# # What will be logged?
 # a = 5
 # a = 'dog'
 # print(a)
 # print(a)
-# Dog because the last data type assigned to a was 'dog'
+# # Dog because the last data type assigned to a was 'dog'
 
-# 3
+# # 3
 
 # a = 10
 # print(a)
@@ -37,7 +37,7 @@
 # print(a)
 # print(type(a))
 
-# 4
+# # 4
 
 # my_income = 150
 # tax_rate = 0.1
