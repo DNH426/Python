@@ -45,5 +45,8 @@
 # mystring = 'abcdefghijk'
 # print(mystring[5:9])
 # slice every other letter
-mystring = 'abcdefghijk'
-print(mystring[::2])
+# mystring = 'abcdefghijk'
+# print(mystring[::2])
+# print the string backwords
+# mystring = 'abcdefghijk'
+# print(mystring[::-1])
